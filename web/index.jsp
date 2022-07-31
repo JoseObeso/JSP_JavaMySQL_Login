@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Principal</title>
+        <title>Principal elPiquero.com</title>
     </head>
     <body>
         <h1>Bienvenidos</h1>
